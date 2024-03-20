@@ -7,7 +7,7 @@ interface Props {
 
 const PDFBtn = ({ placeholder }: Props) => {
   const handleClickArxiv: MouseEventHandler<HTMLButtonElement> = () => {
-    // window.open("/ECCV_PaperId_11626.pdf ");
+    window.open("/ECCV_PaperId_11626.pdf ");
   };
 
   return (
