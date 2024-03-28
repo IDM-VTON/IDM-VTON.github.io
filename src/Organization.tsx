@@ -1,6 +1,7 @@
 import Author from "./Author";
 import Department from "./Department";
 import CODEBtn from "./CODEBtn";
+import DEMOBtn from "./DEMOBtn";
 import PDFBtn from "./PDFBtn";
 import { AuthorInfo, DepartmentInfo } from "./types";
 
@@ -54,6 +55,7 @@ const Organization = () => {
       </div>
       <div className="flex justify-center items-center">
         <PDFBtn placeholder="Paper" />
+        <DEMOBtn placeholder="Demo" />
         <CODEBtn placeholder="Code" />
       </div>
     </div>
