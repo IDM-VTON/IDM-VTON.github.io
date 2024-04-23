@@ -9,7 +9,7 @@ const authors: AuthorInfo[] = [
   {
     name: "Yisol Choi",
     ref: "1",
-    page: "https://alinlab.kaist.ac.kr/members.html"
+    page: "https://www.linkedin.com/in/yisol-choi-b91862263/"
   },
   {
     name: "Sangkyung Kwak",
