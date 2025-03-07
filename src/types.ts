@@ -7,4 +7,5 @@ export interface AuthorInfo {
 export interface DepartmentInfo {
   name: string;
   ref?: string;
+  page?: string;
 }
