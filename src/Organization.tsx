@@ -41,7 +41,6 @@ const departments: DepartmentInfo[] = [
   {
     name: "OMNIOUS.AI",
     ref: "2"
-    page: "https://omnious.ai/"
   }
 ];
 
